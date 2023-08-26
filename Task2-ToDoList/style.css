@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@700&display=swap");
+
+body {
+  background: #080808;
+  color: rgb(201, 204, 205);
+  font-family: "Catamaran", sans-serif;
+}
+.bi-bi-check2-square {
+  margin-top: -1.1vh;
+}
+
+
+.bi-bi-plus {
+  margin-top: -0.4vh;
+  margin-right: -0.4vh;
+}
+.bi-bi-x-circle {
+  margin-top: -0.2vh;
+  margin-right: -0.1vh;
+}
+
+.table {
+  color: rgb(161, 236, 177);
+}
+
+#items h2 {
+  text-align: center;
+}
+
+.form-control {
+  text-decoration: none;
+}
